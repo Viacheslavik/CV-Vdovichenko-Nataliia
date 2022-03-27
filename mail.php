@@ -1,4 +1,4 @@
-<meta http-equiv='refresh' content='3; url=https://bloggood.ru'>
+<meta http-equiv='refresh' content='3; https://viacheslavik.github.io/CV-Vdovichenko-Nataliia/'>
 <meta charset="UTF-8" />
 <?php
 if (isset($_POST['name'])) {$name = $_POST['name']; if ($name == '') {unset($name);}}
